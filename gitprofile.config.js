@@ -15,7 +15,7 @@ const config = {
     stackoverflow: '17109746/ibrahimyg', // format: userid/username
     website: 'iygoktas.vercel.app',
     phone: '+90 531 356 32 23',
-    email: 'arifulalamszn@gmail.com',
+    email: 'ibrahimyasing@gmail.com',
   },
   resume: {
     fileUrl:
