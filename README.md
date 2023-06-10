@@ -1,4 +1,4 @@
-iygoktas.vercel.app
+https://www.iygoktas.vercel.app
 
 
-iygoktas.netlify.app
+https://www.iygoktas.netlify.app
