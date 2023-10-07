@@ -11,7 +11,7 @@ const config = {
     },
   },
   social: {
-    instagram: 'ibrahimyasingoktas',
+    instagram: 'ibrahimtelligence',
     stackoverflow: '17109746/ibrahimyg', // format: userid/username
     website: 'iygoktas.vercel.app',
     phone: '+90 531 356 32 23',
